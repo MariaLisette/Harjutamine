@@ -1,1 +1,3 @@
 Github on koht kuhu saab laadida üles igasuguseid projekte, ning neid teistega jagada. Seda kasutavad peamiselt programmeerijad ning üle üldse inimesed kes tahavad enda teksti jagada
+Mina kasutan seda enda projektide üles laadimiseks ning teistele jagamiseks.
+Kasutan ka seda kooli jaoks et saaksin laadida siia üles kooli projekte.
